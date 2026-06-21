@@ -28,66 +28,69 @@ Dataset
 
 
 **1. Data Preparation**
-Converted raw data into an Excel Table.
-Removed inconsistencies and verified data types.
-Created helper columns:
-Discount Band
-Price Band
-Review Band
+- Converted raw data into an Excel Table.
+- Removed inconsistencies and verified data types.
+- Created helper columns:
+- Discount Band
+- Price Band
+- Review Band
 
 
 **2. Data Analysis Using Pivot Tables**
 Created multiple pivot tables to analyze:
 
-Category performance
-Brand performance
-Product popularity
-Discount effectiveness
-Price segment distribution
-Trending vs non-trending products
-3. Dashboard Development
+- Category performance
+- Brand performance
+- Product popularity
+- Discount effectiveness
+- Price segment distribution
+- Trending vs non-trending products
 
-**Built an interactive dashboard containing:**
+
+**3. Dashboard Development**
+Built an interactive dashboard containing:
 
 **KPI Cards**
-Total Products
-Total Brands
-Average Rating
-Average Discount
-Total Reviews
-Visualizations
-Top Categories by Reviews
-Top Brands by Rating
-Discount Band vs Average Rating
-Price Band vs Product Count
-Top Rated Products
-Trending vs Non-Trending Products
-4. Interactive Features
+- Total Products
+- Total Brands
+- Average Rating
+- Average Discount
+- Total Reviews
+- Visualizations
+- Top Categories by Reviews
+- Top Brands by Rating
+- Discount Band vs Average Rating
+- Price Band vs Product Count
+- Top Rated Products
+- Trending vs Non-Trending Products
 
-**Added slicers for:**
-Category
-Brand
-High Discount
-Trending Product
-These slicers allow users to dynamically filter the entire dashboard.
+**4. Interactive Features**
+Added slicers for:
+
+- Category
+- Brand
+- High Discount
+- Trending Product
+- These slicers allow users to dynamically filter the entire dashboard.
 
 **Business Questions Answered**
-Which categories generate the highest customer engagement?
-Which brands receive the best customer ratings?
-Do higher discounts lead to better ratings?
-Which price segments dominate the product catalog?
-Which products are top performers?
-Are trending products actually better rated?
-Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-Dashboard Design
+- Which categories generate the highest customer engagement?
+- Which brands receive the best customer ratings?
+- Do higher discounts lead to better ratings?
+- Which price segments dominate the product catalog?
+- Which products are top performers?
+- Are trending products actually better rated?
+
+**Tools Used**
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Dashboard Design
 
 **Files Included**
-* Raw_Data.xlsx
+* Raw_Data.csv
 * Ecommerce_Dashboard.xlsx
 * Dashboard_Screenshot.png
 * README.md
