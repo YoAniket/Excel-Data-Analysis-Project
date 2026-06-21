@@ -5,27 +5,29 @@ Analyze e-commerce product and review data to understand customer preferences, p
 Dataset
 
 **The dataset contains 1,500+ records and includes:**
-Product information
-Brand details
-Category information
-Pricing and discounts
-Customer ratings and review counts
-Trending product indicators
-Review information
-Key Fields
-Product ID
-Product Name
-Brand Name
-Category
-Actual Price
-Discounted Price
-Discount Percentage
-Rating
-Rating Count
-Trending Product
-Review Length
-Project Workflow
-1. Data Preparation
+- Product information
+- Brand details
+- Category information
+- Pricing and discounts
+- Customer ratings and review counts
+- Trending product indicators
+- Review information
+- Key Fields
+- Product ID
+- Product Name
+- Brand Name
+- Category
+- Actual Price
+- Discounted Price
+- Discount Percentage
+- Rating
+- Rating Count
+- Trending Product
+- Review Length
+- Project Workflow
+
+
+**1. Data Preparation**
 Converted raw data into an Excel Table.
 Removed inconsistencies and verified data types.
 Created helper columns:
